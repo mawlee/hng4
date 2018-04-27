@@ -1,0 +1,30 @@
+#firstId {font-family: roboto;
+        font-style; normal;
+        font-weight; normal;
+        line-height: normal;
+        font-size: 48px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #ffffff;
+        position: relative;
+        top: 95px; 
+}
+
+ .first {font-family: roboto;
+        font-style; normal;
+        font-weight; normal;
+        line-height: normal;
+        font-size: 40px;
+        text-align: center;
+        text-transform: uppercase;
+        color: #ffffff;
+        position: relative;
+        top: 95px;
+}
+
+  body {background-image: url(mawle.png);
+       background-color: #e5e5e5;
+       position: absolute;
+       width: 1465px;
+       height: 764px;
+}
